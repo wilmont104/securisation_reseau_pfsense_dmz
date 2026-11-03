@@ -84,4 +84,4 @@ Projet finalisé – améliorations possibles :
 
 ## 👤 Auteur
 **SONTIA MBONING GABY WILONE**  
-Étudiant en Licence – Administration Réseaux & Multimédia
+Administrateur Réseaux & Sécurité Junior | Architecture Opérateur
